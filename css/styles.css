@@ -1,0 +1,15 @@
+@font-face {
+    src: url('../font/Oswald-Bold.ttf'),
+        url('../font/Oswald-Extra-LightItalic.ttf'),
+        url('../font/Oswald-Demi-BoldItalic.ttf'),
+        url('../font/Oswald-Regular.ttf');
+    font-family: Oswald;
+}
+
+.font-oswald {
+    font-family: Oswald;
+}
+
+.font-google {
+    font-family: 'Open Sans', sans-serif;
+}
